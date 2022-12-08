@@ -3,3 +3,13 @@ C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_C
 C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\obj\Debug\net6.0\Desafio3Console.AssemblyInfoInputs.cache
 C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\obj\Debug\net6.0\Desafio3Console.AssemblyInfo.cs
 C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\obj\Debug\net6.0\Desafio3Console.csproj.CoreCompileInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\bin\Debug\net6.0\Desafio3Console.exe
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\bin\Debug\net6.0\Desafio3Console.deps.json
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\bin\Debug\net6.0\Desafio3Console.runtimeconfig.json
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\bin\Debug\net6.0\Desafio3Console.dll
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\bin\Debug\net6.0\Desafio3Console.pdb
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\obj\Debug\net6.0\Desafio3Console.dll
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\obj\Debug\net6.0\refint\Desafio3Console.dll
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\obj\Debug\net6.0\Desafio3Console.pdb
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\obj\Debug\net6.0\Desafio3Console.genruntimeconfig.cache
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\obj\Debug\net6.0\ref\Desafio3Console.dll

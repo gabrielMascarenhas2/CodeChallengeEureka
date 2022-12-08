@@ -15,15 +15,16 @@ namespace Desafio03TDD
         {
 
             //Arrange
-            string esperado = "10";
-            bool resultado = true;
+            bool esperado = true;
+            bool resultado;
 
             Juiz J = new Juiz();
             J.AnosTrabalho = 10;
 
             //Assert
             resultado = J.temBoaExperiencia();
-            Assert.Equal(esperado, resultado); 
+            Assert.Equal(esperado,resultado);
+            
 
 
 

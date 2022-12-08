@@ -17,13 +17,15 @@ namespace Desafio03TDD
 
             //Arrage
 
-            string esperado = ("Estado,Cidade,Rua");
-            string resultado = ("Estado,Cidade,Rua");
+            string esperado = ("CidadeEstadoRua");
+            string resultado = ("CidadeEstadoRua");
 
-            Localizacao L = new Localizacao(); 
-            L.Estado = "Estado";
-            L.Rua = "Rua";
+            Localizacao L = new Localizacao();
             L.Cidade = "Cidade";
+            L.Rua = "Rua";
+            L.Estado = "Estado";
+           
+            
 
             //Assert
 
