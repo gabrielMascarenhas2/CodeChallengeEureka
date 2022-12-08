@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Desafio03Console
+namespace Challenge03
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
