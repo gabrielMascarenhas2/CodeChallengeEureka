@@ -15,7 +15,7 @@ namespace Desafio03Console
 
         public string enderecoCompleto()
         {
-            return Cidade + Estado + Rua;
+            return Cidade+", " + Estado+ ", " + Rua;
         }
     }
 }

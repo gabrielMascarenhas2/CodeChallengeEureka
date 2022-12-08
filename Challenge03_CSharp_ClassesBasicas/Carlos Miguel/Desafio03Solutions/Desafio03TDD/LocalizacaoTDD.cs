@@ -14,7 +14,7 @@ namespace Desafio03TDD
         public void endereçoCompletoIgualEstanciaSergipeLeite()
         {
             //Arrange
-            string esperado = "EstanciaSergipeLeite";
+            string esperado = "Estancia, Sergipe, Leite";
             string resultado;
 
             Localizacao l = new Localizacao();
