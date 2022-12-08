@@ -1670,6 +1670,16 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Desafio3Console/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Desafio3Console.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Desafio3Console.dll": {}
+        }
       }
     }
   },
@@ -5962,10 +5972,16 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Desafio3Console/1.0.0": {
+      "type": "project",
+      "path": "../Desafio3Console/Desafio3Console.csproj",
+      "msbuildProject": "../Desafio3Console/Desafio3Console.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Desafio3Console >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
       "coverlet.collector >= 3.1.0",
       "xunit >= 2.4.1",
@@ -6006,7 +6022,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\android\\Documents\\ReportMaia\\CodeChallengeEureka\\Challenge03_CSharp_ClassesBasicas\\maia\\Desafio3solution\\Desafio3Console\\Desafio3Console.csproj": {
+              "projectPath": "C:\\Users\\android\\Documents\\ReportMaia\\CodeChallengeEureka\\Challenge03_CSharp_ClassesBasicas\\maia\\Desafio3solution\\Desafio3Console\\Desafio3Console.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
