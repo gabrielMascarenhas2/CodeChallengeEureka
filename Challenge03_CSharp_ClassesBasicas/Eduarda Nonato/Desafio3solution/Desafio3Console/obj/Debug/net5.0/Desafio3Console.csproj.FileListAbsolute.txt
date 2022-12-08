@@ -1,0 +1,16 @@
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\bin\Debug\net5.0\Desafio3Console.exe
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\bin\Debug\net5.0\Desafio3Console.deps.json
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\bin\Debug\net5.0\Desafio3Console.runtimeconfig.json
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\bin\Debug\net5.0\Desafio3Console.runtimeconfig.dev.json
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\bin\Debug\net5.0\Desafio3Console.dll
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\bin\Debug\net5.0\ref\Desafio3Console.dll
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\bin\Debug\net5.0\Desafio3Console.pdb
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\obj\Debug\net5.0\Desafio3Console.csproj.AssemblyReference.cache
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\obj\Debug\net5.0\Desafio3Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\obj\Debug\net5.0\Desafio3Console.AssemblyInfoInputs.cache
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\obj\Debug\net5.0\Desafio3Console.AssemblyInfo.cs
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\obj\Debug\net5.0\Desafio3Console.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\obj\Debug\net5.0\Desafio3Console.dll
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\obj\Debug\net5.0\ref\Desafio3Console.dll
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\obj\Debug\net5.0\Desafio3Console.pdb
+C:\Users\android\Documents\reporGitNonato\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Eduarda Nonato\Desafio3solution\Desafio3Console\obj\Debug\net5.0\Desafio3Console.genruntimeconfig.cache
