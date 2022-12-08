@@ -2,7 +2,7 @@
 
 namespace Desafio03Console
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {

@@ -1,0 +1,16 @@
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\bin\Debug\net5.0\Desafio03Console.exe
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\bin\Debug\net5.0\Desafio03Console.deps.json
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\bin\Debug\net5.0\Desafio03Console.runtimeconfig.json
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\bin\Debug\net5.0\Desafio03Console.runtimeconfig.dev.json
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\bin\Debug\net5.0\Desafio03Console.dll
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\bin\Debug\net5.0\ref\Desafio03Console.dll
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\bin\Debug\net5.0\Desafio03Console.pdb
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\obj\Debug\net5.0\Desafio03Console.csprojAssemblyReference.cache
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\obj\Debug\net5.0\Desafio03Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\obj\Debug\net5.0\Desafio03Console.AssemblyInfoInputs.cache
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\obj\Debug\net5.0\Desafio03Console.AssemblyInfo.cs
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\obj\Debug\net5.0\Desafio03Console.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\obj\Debug\net5.0\Desafio03Console.dll
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\obj\Debug\net5.0\ref\Desafio03Console.dll
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\obj\Debug\net5.0\Desafio03Console.pdb
+C:\Users\android\Documents\viniputinha\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Araújo\Desafio03Solution\Desafio03Console\obj\Debug\net5.0\Desafio03Console.genruntimeconfig.cache
