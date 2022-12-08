@@ -15,14 +15,13 @@ namespace Desafio03TDD
         {
             //Arrange
             double esperado = 2000;
-            double resultado = -1;
 
             Processo p = new Processo();
             p.valorPerdido = 5000;
             p.valorGanho = 3000;
 
             //assert
-            resultado = p.obterGanhoLiquido();
+            double resultado = p.obterGanhoLiquido();
             Assert.Equal(esperado, resultado);
         }
     }
