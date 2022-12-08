@@ -1,0 +1,6 @@
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio03TDD\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio03TDD\obj\Debug\net6.0\Desafio03TDD.csproj.AssemblyReference.cache
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio03TDD\obj\Debug\net6.0\Desafio03TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio03TDD\obj\Debug\net6.0\Desafio03TDD.AssemblyInfoInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio03TDD\obj\Debug\net6.0\Desafio03TDD.AssemblyInfo.cs
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio03TDD\obj\Debug\net6.0\Desafio03TDD.csproj.CoreCompileInputs.cache

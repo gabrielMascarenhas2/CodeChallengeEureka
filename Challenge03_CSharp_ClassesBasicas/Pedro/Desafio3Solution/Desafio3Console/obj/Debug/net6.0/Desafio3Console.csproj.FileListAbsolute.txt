@@ -1,0 +1,5 @@
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\obj\Debug\net6.0\Desafio3Console.csproj.AssemblyReference.cache
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\obj\Debug\net6.0\Desafio3Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\obj\Debug\net6.0\Desafio3Console.AssemblyInfoInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\obj\Debug\net6.0\Desafio3Console.AssemblyInfo.cs
+C:\Users\manha.cetafest\Documents\GitHub\Pedro\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Pedro\Desafio3Solution\Desafio3Console\obj\Debug\net6.0\Desafio3Console.csproj.CoreCompileInputs.cache
