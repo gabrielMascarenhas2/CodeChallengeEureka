@@ -12,12 +12,12 @@ namespace Desafio03Console
         public string Descricao { get; set; }
         public string Motivo { get; set; }
         public string Status { get; set; }
-        public double ValorPerdido { get; set; }
-        public double ValorGanho { get; set; }
+        public double valorPerdido { get; set; }
+        public double valorGanho { get; set; }
 
         public double obterGanhoLiquido()
         {
-            return ValorPerdido - ValorGanho;
+            return valorPerdido - valorGanho;
         }
     }
 }

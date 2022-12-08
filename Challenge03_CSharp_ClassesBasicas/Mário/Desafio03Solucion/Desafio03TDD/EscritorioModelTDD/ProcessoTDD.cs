@@ -18,8 +18,8 @@ namespace Desafio03TDD
             double resultado = -1;
 
             Processo p = new Processo();
-            p.ValorPerdido = 5000;
-            p.ValorGanho = 3000;
+            p.valorPerdido = 5000;
+            p.valorGanho = 3000;
 
             //assert
             resultado = p.obterGanhoLiquido();
