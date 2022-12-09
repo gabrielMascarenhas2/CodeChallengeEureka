@@ -1,0 +1,16 @@
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\bin\Debug\net5.0\Desafio3console.exe
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\bin\Debug\net5.0\Desafio3console.deps.json
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\bin\Debug\net5.0\Desafio3console.runtimeconfig.json
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\bin\Debug\net5.0\Desafio3console.runtimeconfig.dev.json
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\bin\Debug\net5.0\Desafio3console.dll
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\bin\Debug\net5.0\ref\Desafio3console.dll
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\bin\Debug\net5.0\Desafio3console.pdb
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\obj\Debug\net5.0\Desafio3console.csprojAssemblyReference.cache
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\obj\Debug\net5.0\Desafio3console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\obj\Debug\net5.0\Desafio3console.AssemblyInfoInputs.cache
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\obj\Debug\net5.0\Desafio3console.AssemblyInfo.cs
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\obj\Debug\net5.0\Desafio3console.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\obj\Debug\net5.0\Desafio3console.dll
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\obj\Debug\net5.0\ref\Desafio3console.dll
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\obj\Debug\net5.0\Desafio3console.pdb
+C:\Users\TEMP.LABFIES.023\Documents\repoGitAlicematrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Alice\Desafio3solution\Desafio3console\obj\Debug\net5.0\Desafio3console.genruntimeconfig.cache
