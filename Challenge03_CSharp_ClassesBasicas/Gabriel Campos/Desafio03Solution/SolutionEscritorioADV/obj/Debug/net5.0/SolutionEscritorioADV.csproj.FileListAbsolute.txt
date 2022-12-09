@@ -1,0 +1,16 @@
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\bin\Debug\net5.0\SolutionEscritorioADV.exe
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\bin\Debug\net5.0\SolutionEscritorioADV.deps.json
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\bin\Debug\net5.0\SolutionEscritorioADV.runtimeconfig.json
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\bin\Debug\net5.0\SolutionEscritorioADV.runtimeconfig.dev.json
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\bin\Debug\net5.0\SolutionEscritorioADV.dll
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\bin\Debug\net5.0\ref\SolutionEscritorioADV.dll
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\bin\Debug\net5.0\SolutionEscritorioADV.pdb
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\obj\Debug\net5.0\SolutionEscritorioADV.csproj.AssemblyReference.cache
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\obj\Debug\net5.0\SolutionEscritorioADV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\obj\Debug\net5.0\SolutionEscritorioADV.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\obj\Debug\net5.0\SolutionEscritorioADV.AssemblyInfo.cs
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\obj\Debug\net5.0\SolutionEscritorioADV.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\obj\Debug\net5.0\SolutionEscritorioADV.dll
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\obj\Debug\net5.0\ref\SolutionEscritorioADV.dll
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\obj\Debug\net5.0\SolutionEscritorioADV.pdb
+C:\Users\android\Desktop\PROVA FINAL\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Gabriel Campos\Desafio03Solution\SolutionEscritorioADV\obj\Debug\net5.0\SolutionEscritorioADV.genruntimeconfig.cache
