@@ -1,0 +1,16 @@
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\bin\Debug\net5.0\Desafio03console.exe
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\bin\Debug\net5.0\Desafio03console.deps.json
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\bin\Debug\net5.0\Desafio03console.runtimeconfig.json
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\bin\Debug\net5.0\Desafio03console.runtimeconfig.dev.json
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\bin\Debug\net5.0\Desafio03console.dll
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\bin\Debug\net5.0\ref\Desafio03console.dll
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\bin\Debug\net5.0\Desafio03console.pdb
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\obj\Debug\net5.0\Desafio03console.csproj.AssemblyReference.cache
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\obj\Debug\net5.0\Desafio03console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\obj\Debug\net5.0\Desafio03console.AssemblyInfoInputs.cache
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\obj\Debug\net5.0\Desafio03console.AssemblyInfo.cs
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\obj\Debug\net5.0\Desafio03console.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\obj\Debug\net5.0\Desafio03console.dll
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\obj\Debug\net5.0\ref\Desafio03console.dll
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\obj\Debug\net5.0\Desafio03console.pdb
+C:\Users\android\Documents\Repositório Ket Matrix\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\Ketilly\Desafio03Solution\Desafio03console\obj\Debug\net5.0\Desafio03console.genruntimeconfig.cache

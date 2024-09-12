@@ -1,0 +1,16 @@
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\bin\Debug\net5.0\desafio03console.exe
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\bin\Debug\net5.0\desafio03console.deps.json
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\bin\Debug\net5.0\desafio03console.runtimeconfig.json
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\bin\Debug\net5.0\desafio03console.runtimeconfig.dev.json
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\bin\Debug\net5.0\desafio03console.dll
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\bin\Debug\net5.0\ref\desafio03console.dll
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\bin\Debug\net5.0\desafio03console.pdb
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\obj\Debug\net5.0\desafio03console.csproj.AssemblyReference.cache
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\obj\Debug\net5.0\desafio03console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\obj\Debug\net5.0\desafio03console.AssemblyInfoInputs.cache
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\obj\Debug\net5.0\desafio03console.AssemblyInfo.cs
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\obj\Debug\net5.0\desafio03console.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\obj\Debug\net5.0\desafio03console.dll
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\obj\Debug\net5.0\ref\desafio03console.dll
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\obj\Debug\net5.0\desafio03console.pdb
+C:\Users\android\Documents\Reportgithubwalber\CodeChallengeEureka\Challenge03_CSharp_ClassesBasicas\walber\desafio03solution\desafio03console\obj\Debug\net5.0\desafio03console.genruntimeconfig.cache
